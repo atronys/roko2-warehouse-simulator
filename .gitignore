@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Временные файлы
+*.tmp
+tempCodeRunnerFile.py
+
+# Артефакты
+*.png
+*.bmp
+*.jpg
+*.jpeg
+
+# Jupyter
+.ipynb_checkpoints/
